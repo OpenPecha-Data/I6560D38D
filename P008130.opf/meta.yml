@@ -1,15 +1,16 @@
-id: opecha:P008130
+id: P008130
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN3331
   title: པདྨ་བཀའ་ཐང་། ༼གསེར་བྲིས།༽
-  volume:
+  author: ''
+  volumes:
     64a750aa9b764382bd0025d8b86d2dff:
       image_group_id: I3CN3566
       title: Volume 1 of pad+ma bka' thang / (gser bris/)
       volume_number: 1
       total_pages: 494
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: པདྨ་བཀའ་ཐང་། ༼གསེར་བྲིས།༽
   author: ''
